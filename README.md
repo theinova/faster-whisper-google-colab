@@ -1,20 +1,27 @@
 # faster-whisper-google-colab
-faster whisper google colab
+faster-whisper-google-colab
 
-Why faster-whisper? Because it more faster than openai whisper python realisation. For more read guillaumekln/faster-whisper
+Why faster-whisper? Because it's faster than the openai whisper implementation in python. Read guillaumekln/faster-whisper for details.
 
-Create folder in google drive, like example: audio
+Create a folder on google drive, for example: audio
 
-Upload your mp3 files to folder.
+Load your mp3 files into the folder.
 
-run colab, the results will saved at output folder.
+Run colab, the results will be saved in the output folder.
 
-I use large model, for faster use other models.
+I use the LARGE for multilang model, use other models for faster work. (tiny, base, small etc. if you need only english language)
 
-It's work only with mp3 format. I do it for self. If you need more formats try to use this code in chatgpt or write me.
+This only works with mp3 format. I do it for me. If you need other formats try to use this code in chatgpt or email me.
 
-Anyway its created for self only. Enjoy!
+Why mp3? I used this format to transcribe youtube videos because this format weighs less to store on google drive.
+
+Use youtube-dl or 4kdownloader
+
+In any case it's made only for myself. Enjoy!
 
 
 
 Read https://github.com/guillaumekln/faster-whisper
+
+
+Translated with www.DeepL.com/Translator (free version)
