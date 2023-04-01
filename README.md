@@ -24,4 +24,10 @@ In any case it's made only for myself. Enjoy!
 Read https://github.com/guillaumekln/faster-whisper
 
 
-Translated with www.DeepL.com/Translator (free version)
+The benchmark:
+
+The stream in RU language with large-v2 base 42 minute stream takes about 5 minutes
+
+Total characters: 31435
+No spaces: 26616 
+Number of words: 4820
