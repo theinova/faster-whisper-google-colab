@@ -7,4 +7,4 @@ run colab, the results will saved at output folder.
 
 I use large model, for faster use other models.
 
-Read official https://github.com/guillaumekln/faster-whisper
+Read https://github.com/guillaumekln/faster-whisper
